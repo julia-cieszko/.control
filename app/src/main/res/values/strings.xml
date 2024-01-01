@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">DermatologyApp</string>
+    <string name = "web_client_id">434593637328-r06i5b59vsuemu5vf30nhd1bkigcj56r.apps.googleusercontent.com</string>
+
+    <string name="arm_mole_place">left arm</string>
+    <string name="back_mole_place">back</string>
+    <string name="chest_mole_place">chest</string>
+    <string name="neck_mole_place">neck</string>
+
+    <string name="status_not_analyzed">not analyzed</string>
+    <string name="status_safe">safe</string>
+    <string name="status_suspicious">suspicious</string>
+
+    <string name="navbar_profile">My profile</string>
+    <string name="navbar_body_areas">Body areas</string>
+    <string name="navbar_uv_index">UV index</string>
+    <string name="navbar_learn_more">Learn more</string>
+
+    <string name="body_map_back">Back</string>
+    <string name="body_map_front">Front</string>
+
+    <string name="question1">
+        Czy posiadasz znamię lub znamiona o wyróżniającym się wyglądzie?
+    </string>
+    <string name="question2">
+        Czy często narażasz skórę na działanie promieniowania UV - przebywasz na słońcu bez
+        stosowania kremu z filtrem, opalasz się?
+    </string>
+    <string name="question3">
+        Czy regularnie korzystasz z solarium lub korzystałeś/aś w przeszłości?
+    </string>
+    <string name="question4">
+        Czy posiadasz ponad 50 znamion na całym ciele?
+    </string>
+    <string name="question5">
+        Czy ty lub osoba z twojej najbliższej rodziny (rodzice, dziadkowie, rodzeństwo) posiada
+        historię występowania czerniaka?
+    </string>
+    <string name="question6">
+        Czy posiadasz przynajmniej jedną z następujących cech: jasna skóra, niebieskie, zielone
+        lub szare oczy, ciemny blond, jasny blond, rude włosy?
+    </string>
+    <string name="question7">
+        Czy twoja skóra reaguje na działanie słońca oparzeniem lub zaczerwienieniem?
+    </string>
+    <string name="question8">
+        Czy w dzieciństwie i w okresie dojrzewania doświadczyłeś/aś intensywnych oparzeń
+        słonecznych ponad pięciokrotnie?
+    </string>
+    <string name="question9">
+        Czy miałeś/aś kiedykolwiek wykonywany przeszczep, po którym przyjmowałeś/aś leki
+        immunosupresyjne?
+    </string>
+    <string name="question10">
+        Czy aktualnie chorujesz na przynajmniej jeden z następujących nowotworów:
+        podstawnokomórkowy rak skóry, płaskonabłonkowy rak skóry, ziarniak grzybiasty?
+    </string>
+</resources>

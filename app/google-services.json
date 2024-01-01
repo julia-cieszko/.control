@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "434593637328",
+    "project_id": "dermatologyapp-bed75",
+    "storage_bucket": "dermatologyapp-bed75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434593637328:android:ae285bbfaebde7be554fd5",
+        "android_client_info": {
+          "package_name": "com.example.dermatologyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434593637328-8pvt2f65iiaiuaad0vgp9uuroo025de3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dermatologyapp",
+            "certificate_hash": "94fa4a4751c9c0bb3ff9d07b671e32b53f4fb954"
+          }
+        },
+        {
+          "client_id": "434593637328-btdtlgigd6o452ghei48ppd08cfb79bq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dermatologyapp",
+            "certificate_hash": "55fb1d62e61c58235b85a6665fc070f2555fea0c"
+          }
+        },
+        {
+          "client_id": "434593637328-r06i5b59vsuemu5vf30nhd1bkigcj56r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvwzFz1pIPlq_UqAJT-WVUNGLpMsuWsgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434593637328-r06i5b59vsuemu5vf30nhd1bkigcj56r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
